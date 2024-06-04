@@ -4,7 +4,8 @@
 
 ## 类图及设计模式说明
 
-![image-20240531153907020](C:\Users\38432\AppData\Roaming\Typora\typora-user-images\image-20240531153907020.png)
+![Uploading UML (2).jpg…]()
+
 
 1. **Composite模式**：`Component` 抽象类为叶子和组合对象定义了共同接口。`Composite` 类表示具有子组件的容器，而 `Leaf` 类表示没有子组件的元素。这样，叶子和组合对象可以被一致地对待。
 
