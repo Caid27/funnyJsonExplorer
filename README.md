@@ -4,7 +4,7 @@
 
 ## 类图及设计模式说明
 
-![Uploading UML (2).jpg…]()
+![image](https://github.com/Caid27/funnyJsonExplorer/blob/main/UML_fje.jpg)
 
 
 1. **Composite模式**：`Component` 抽象类为叶子和组合对象定义了共同接口。`Composite` 类表示具有子组件的容器，而 `Leaf` 类表示没有子组件的元素。这样，叶子和组合对象可以被一致地对待。
