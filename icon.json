@@ -1,0 +1,25 @@
+{
+    "iconFamilies": [
+        {
+            "name": "default",
+            "icons": [
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "pokerface",
+            "icons": [
+                "\u2666",
+                "\u2660"
+            ]
+        },
+        {
+            "name": "star",
+            "icons": [
+                "\u2605",
+                "\u2726"
+            ]
+        }
+    ]
+}
